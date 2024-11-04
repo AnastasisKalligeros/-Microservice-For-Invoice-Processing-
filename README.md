@@ -16,25 +16,25 @@ The application is implemented in C# with Framework .NET Core 8.0 and Microservi
 
 ![image](https://github.com/user-attachments/assets/28a0dd40-b679-4673-9857-126734f09d36) </br> </br>
 
-• Creating a new invoice (POST) </br> </br>
+• <b>Creating a new invoice (POST)</b>  </br> </br>
 
 ![image](https://github.com/user-attachments/assets/a39f3e71-5279-45bd-b2ba-c9f6a97cd836) </br> </br>
 
 ![image](https://github.com/user-attachments/assets/1284e668-1956-4ac3-be95-5a030e27afc0) </br> </br>
 
-• Retrieving an invoice or all invoices (GET) </br> </br>
+• <b>Retrieving an invoice or all invoices (GET)</b>  </br> </br>
 
 ![image](https://github.com/user-attachments/assets/caf13f41-4444-4cdf-a781-d6bfe4b1473b) </br> </br>
 
 ![image](https://github.com/user-attachments/assets/792a0741-d106-4fe2-9b39-fb51a97c8bdf) </br> </br>
 
-• Updating invoice (PUT) </br> </br>
+• <b>Updating invoice (PUT)</b>  </br> </br>
 
 ![image](https://github.com/user-attachments/assets/8f9bb947-ea14-4e53-b42e-3822ff1e7450)  </br> </br>
 
 ![image](https://github.com/user-attachments/assets/d83fc38c-8e8c-4c3e-a49c-b3618f06f398)  </br> </br>
 
-• Deleting invoice (DELETE) </br> </br>
+• <b>Deleting invoice (DELETE)</b>  </br> </br>
 
 ![image](https://github.com/user-attachments/assets/84b87ffc-6feb-49f5-96a5-02b9503ecbd9) </br> </br>
 
