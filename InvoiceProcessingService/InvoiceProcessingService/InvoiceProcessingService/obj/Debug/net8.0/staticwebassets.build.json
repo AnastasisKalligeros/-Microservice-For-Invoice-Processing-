@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dBlO1F2VynCeMt/Z5mCpz4IkgSWMdIymp8Nqb95n4FQ=",
+  "Source": "InvoiceProcessingService",
+  "BasePath": "_content/InvoiceProcessingService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

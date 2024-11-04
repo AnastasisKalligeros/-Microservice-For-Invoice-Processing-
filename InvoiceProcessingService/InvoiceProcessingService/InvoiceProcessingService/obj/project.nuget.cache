@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "bPnFHTltLNA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tasso\\source\\repos\\InvoiceProcessingService\\InvoiceProcessingService\\InvoiceProcessingService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tasso\\.nuget\\packages\\awssdk.core\\3.7.400.20\\awssdk.core.3.7.400.20.nupkg.sha512",
+    "C:\\Users\\tasso\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\tasso\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\tasso\\.nuget\\packages\\swashbuckle.aspnetcore\\6.7.3\\swashbuckle.aspnetcore.6.7.3.nupkg.sha512",
+    "C:\\Users\\tasso\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.7.3\\swashbuckle.aspnetcore.swagger.6.7.3.nupkg.sha512",
+    "C:\\Users\\tasso\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.7.3\\swashbuckle.aspnetcore.swaggergen.6.7.3.nupkg.sha512",
+    "C:\\Users\\tasso\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.7.3\\swashbuckle.aspnetcore.swaggerui.6.7.3.nupkg.sha512"
+  ],
+  "logs": []
+}
